@@ -25,5 +25,5 @@ La cuarta parte convierte el conteo de 1s consecutivos en números naturales.
 ### Quinta Parte
 ![Quinta Parte](p5.png)
 
-La quinta y última parte se encarga de limpiar los residuos y corregir formatos inválidos, asegurando que los resultados finales sean claros y precisos.
+La quinta y última parte se encarga de limpiar los residuos y corregir formatos inválidos, asegurando que los resultados finales sean claros y precisos. Y fin :).
 
